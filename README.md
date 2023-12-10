@@ -3,7 +3,8 @@
 <!--
 **Theekshana-z/Theekshana-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/a322088d-38b8-4485-9282-2a8374236c24)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
