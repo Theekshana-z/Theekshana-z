@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/5962085c-6863-4cb7-806e-e1a0a4d53c2b)
+
 **Theekshana-z/Theekshana-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/a322088d-38b8-4485-9282-2a8374236c24)
