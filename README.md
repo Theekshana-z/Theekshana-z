@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/theekshana-z-70a362188-?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bhwu1frsdskio73nrud6gra%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theekshana-sahan-70a362188?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bhwu1frsdskio73nrud6gra%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://[www.linkedin.com/in/theekshana-z-70a362188-](https://www.linkedin.com/in/theekshana-z/)?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bhwu1frsdskio73nrud6gra%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theekshana-sahan-70a362188?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bhwu1frsdskio73nrud6gra%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/theekshanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100087843833582" height="30" width="40" /></a>
-<a href="https://instagram.com/theekshana_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theekshana_23" height="30" width="40" /></a>
+<a href="https://instagram.com/theekshana_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theekshana_23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
