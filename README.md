@@ -1,6 +1,7 @@
 ![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/0cd84d92-39f0-4c64-8649-682a965e3242)
 <h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
-<h3 align="center">A passionate Web developer from Srilanka</h3>
+<h3 align="center">A passionate Ethical Hacker from Srilanka</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Theekshanaz.png" alt="TryHackMe">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana-z&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana-z" /> </p>
 
@@ -8,7 +9,7 @@
 
 - 🌱 I’m currently learning **C,C++,HTML,CSS,JS,PHP**
 
-- 💬 Ask me about **Web Develop**
+- 💬 Ask me about Cyber Security
 
 - 📫 How to reach me **theekshanasahan10@gmail.com**
 
