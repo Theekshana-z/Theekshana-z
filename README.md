@@ -1,6 +1,6 @@
 ![Cover](https://github.com/Theekshana-z/Theekshana-z/assets/121856255/0cd84d92-39f0-4c64-8649-682a965e3242)
 <h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
-<h3 align="center">A passionate Ethical Hacker from Srilanka</h3>
+<h3 align="center">Passionate Cybersecurity University Student | Securing the Digital World👩‍💻</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana-z&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana-z" /> </p>
