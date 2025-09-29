@@ -1,7 +1,7 @@
 ![MasterHead](https://backiee.com/static/wallpapers/1000x563/328789.jpg)
 
-<h1 align="center">Hi 👋, I'm Theekshana Sahan</h1>
-<h3 align="center">A passionate Cyber Security from Srilanka</h3>
+<h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
+<h3 align="center">Passionate Cyber Security learner from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana-z&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana-z" /> </p>
 
