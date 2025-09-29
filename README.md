@@ -1,4 +1,4 @@
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Theekshanaz.png" alt="Your Image Badge" />
 <h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
 <h3 align="center">Passionate Cyber Security learner from Sri Lanka.</h3>
 
