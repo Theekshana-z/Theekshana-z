@@ -1,4 +1,3 @@
-![MasterHead](https://backiee.com/static/wallpapers/1000x563/328789.jpg)
 
 <h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
 <h3 align="center">Passionate Cyber Security learner from Sri Lanka.</h3>
