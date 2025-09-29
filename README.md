@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/Theekshanaz.png" alt="Your Image Badge" />
+
 <h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
 <h3 align="center">Passionate Cyber Security learner from Sri Lanka.</h3>
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theekshana-z&show_icons=true&locale=en" alt="theekshana-z" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theekshana-z&" alt="theekshana-z" /></p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Theekshanaz.png" alt="Your Image Badge" />
