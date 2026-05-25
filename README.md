@@ -1,26 +1,140 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Theekshana Sahan Jayawardhana</h1>
-<h3 align="center">Passionate Cyber Security learner from Sri Lanka.</h3>
+# 👨‍💻 Hi 👋, I'm Theekshana Sahan Jayawardhana
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana-z&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana-z" /> </p>
+### 🔐 Cyber Security Undergraduate | AI & Offensive Security Researcher
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theekshana-z" alt="theekshana-z" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;AI-Powered+Security+Systems;Penetration+Testing+%26+Threat+Analysis;FastAPI+%7C+Machine+Learning+%7C+Python;4th+Year+Undergraduate+at+SLIIT" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+# 🧠 About Me
+
+🎓 4th Year B.Sc. (Hons) IT Undergraduate – Specializing in **Cyber Security**  
+🏫 Sri Lanka Institute of Information Technology (**SLIIT**)  
+📚 Currently in **4th Year – 2nd Semester**  
+🔐 Passionate about:
+- Offensive Security
+- AI-driven Cybersecurity
+- Vulnerability Analysis
+- Penetration Testing
+- Threat Intelligence
+- Machine Learning for Security
+
+🚀 Currently working on:
+
+### 🛡️ NeuroShell Framework
+An autonomous AI-powered offensive security framework with intelligent vulnerability prioritization and exploitability prediction.
+
+---
+
+# 🔬 Current Research
+
+## 🧠 AI-Driven Vulnerability Analysis Engine (AVAE)
+
+### ⚙️ Technologies Used
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/theekshana-z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/theekshana-z" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/theekshanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/theekshanna" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/theekshana_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/theekshana_z" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux,mysql,postgresql,react,nodejs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </a> </p>
+### 🤖 Machine Learning & Security Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theekshana-z&show_icons=true&locale=en&layout=compact" alt="theekshana-z" /></p>
+<p align="left">
+<img src="https://img.shields.io/badge/XGBoost-ML-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Neo4j-GraphDB-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NVD-ThreatIntel-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EPSS-ExploitPrediction-yellow?style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theekshana-z&show_icons=true&locale=en" alt="theekshana-z" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theekshana-z&" alt="theekshana-z" /></p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Theekshanaz.png" alt="Your Image Badge" />
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,react,nodejs,fastapi,docker,git,github,linux,mysql,postgresql,mongodb,figma,vscode,bash" />
+
+</p>
+
+---
+
+# 🧰 Cyber Security Interests
+
+```text
+✔ Penetration Testing
+✔ Threat Intelligence
+✔ Vulnerability Analysis
+✔ AI in Cybersecurity
+✔ Offensive Security
+✔ Secure Backend Development
+✔ API Security
+✔ Network Security
+✔ Risk Analysis
+✔ Machine Learning Security Research
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theekshana-z&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana-z&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theekshana-z&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Project
+
+## 🔐 NeuroShell – Autonomous Offensive Security Framework
+
+### Key Features
+
+- AI-driven vulnerability analysis
+- Exploitability prediction
+- Threat intelligence integration
+- Penetration testing workflow automation
+- Risk prioritization engine
+- Autonomous feedback generation
+
+🔗 Repository:
+[AI-Driven-Vulnerability-Analysis-Engine](https://github.com/Theekshana-z/AI-Driven-Vulnerability-Analysis-Engine)
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Theekshana-z">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🔥 “Building intelligent cybersecurity systems with AI-driven automation.”
+
+<img src="https://komarev.com/ghpvc/?username=Theekshana-z&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
